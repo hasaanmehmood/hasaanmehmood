@@ -56,6 +56,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+[![GitHub Streak](https://github-readme-streak-stats-sepia-ten.vercel.app?user=Hasaan%20Mehmood&theme=dark&mode=weekly)](https://git.io/streak-stats)
 <div align=center>
   <img width=390 src="[![GitHub Streak](https://github-readme-streak-stats-sepia-ten.vercel.app?user=Hasaan%20Mehmood&theme=dark&mode=weekly)](https://git.io/streak-stats)" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-hasaanmehmood.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
