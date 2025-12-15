@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Teraform, AWS, Go**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/hasaanmehmood/hasaanmehmood/issues)**
+💬 Ask me about **Python, Django, C++... or anything [here](https://github.com/hasaanmehmood/hasaanmehmood/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -60,7 +60,7 @@
   <img width=390 src="https://github-readme-streak-stats-hasaanmehmood.vercel.app/?user=hasaanmehmood&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-hasaanmehmood.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-hasaanmehmood.vercel.app/api/top-langs/?username=hasaanmehmood&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="[https://github-readme-stats-hasaanmehmood.vercel.app/api/top-langs/?username=hasaanmehmood](https://github-readme-streak-stats-sepia-ten.vercel.app?user=Hasaan%20Mehmood&theme=dark&mode=weekly)&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
