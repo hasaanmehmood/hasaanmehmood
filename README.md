@@ -59,7 +59,7 @@
 
 <div align=center>
 
-    <p align="center">
+  
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
     <img
       src="https://github-readme-streak-stats-sepia-ten.vercel.app/?user=hasaanmehmood&theme=dark&hide_border=true"
