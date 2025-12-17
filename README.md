@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hasaanmehmood.hasaanmehmood" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hasaanmehmood.hasaanmehmood&left_color=gray&right_color=blue" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hasaan+Mehmood!;" />
@@ -58,10 +58,10 @@
 <br>
 
 <div align=center>
-  <img width=390 src="[![GitHub Streak](https://github-readme-streak-stats-sepia-ten.vercel.app?user=Hasaan%20Mehmood&theme=dark&mode=weekly)](https://git.io/streak-stats)" alt="streak stats"/>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=hasaanmehmood&theme=dark&hide_border=true" />
   <img width=390 src="https://github-readme-stats-hasaanmehmood.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="[![GitHub Streak](https://github-readme-streak-stats-sepia-ten.vercel.app?user=Hasaan%20Mehmood&theme=dark&mode=weekly)](https://git.io/streak-stats)" alt="top langs" />
+  <img width=325 align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanmehmood&layout=compact&theme=react&hide_border=true) />
 </div>
 
 <br/><br/>
