@@ -1,8 +1,9 @@
 <img
   align="right"
-  src="https://visitor-badge.laobi.icu/badge?page_id=hasaanmehmood.hasaanmehmood&left_color=gray&right_color=blue"
-  alt="Profile visitor count"
+  src="https://komarev.com/ghpvc/?username=hasaanmehmood&label=Profile%20views&color=0e75b6&style=flat"
+  alt="Profile views"
 />
+
 
 
 <h1 align="center">
