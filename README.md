@@ -70,7 +70,7 @@
     <img
       src="https://github-readme-streak-stats-sepia-ten.vercel.app/?user=hasaanmehmood&theme=dark&hide_border=true"
       alt="GitHub Streak Stats"
-      width="390"
+      width="800"
     />
   </a>
 </p>
