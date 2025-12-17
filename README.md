@@ -79,7 +79,7 @@
    
   <br/>
 <img
-  width="325"
+  width="500"
   align="center"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanmehmood&layout=compact&theme=dark&hide_border=true"
   alt="Top Languages"
