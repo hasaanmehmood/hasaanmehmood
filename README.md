@@ -76,19 +76,22 @@
    
   <br/>
 <br/><br/>
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50&title_color=FF7F50&text_color=C9D1D9"
+    width="400"
+    alt="GitHub Stats"
+    style="margin-right: 20px;"
+  />
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50&title_color=FF7F50&text_color=C9D1D9"
-  width="500"
-/>
-
-<br/>
-
-<img
-  width="400"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanmehmood&layout=compact&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50"
-  alt="Top Languages"
-/>
+  <!-- Top Languages Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanmehmood&layout=compact&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50&title_color=FF7F50&text_color=C9D1D9"
+    width="400"
+    alt="Top Languages"
+  />
+</p>
 
 <br/><br/>
 <hr/>
