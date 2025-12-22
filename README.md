@@ -86,7 +86,11 @@
 
 
 <br/><br/>
-
+<img
+  src="https://github-readme-stats.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50"
+  width="500"
+/>
+<br/><br/>
 <hr/>
 
 <br/>
