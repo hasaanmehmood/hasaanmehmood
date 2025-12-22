@@ -65,13 +65,11 @@
 
 <div align=center>
 
-<a href="https://git.io/streak-stats" target="_blank">
-  <img
-    src="https://github-readme-streak-stats-sepia-ten.vercel.app/?user=hasaanmehmood&theme=dark&hide_border=true&bg_color=FF7F50&text_color=0d1117&date_color=0d1117&ring_color=0d1117&fire_color=0d1117&sideNums=0d1117&sideLabels=0d1117"
-    width="800"
-    alt="GitHub Streak Stats"
-  />
-</a>
+<img
+  src="https://github-readme-streak-stats-sepia-ten.vercel.app/?user=hasaanmehmood&theme=dark&hide_border=true&bg_color=0d1117&ring_color=FF7F50&fire_color=FF7F50&currStreakNum=FF7F50&sideNums=FF7F50"
+  width="800"
+/>
+
 
 
    
