@@ -66,15 +66,21 @@
 <div align=center>
 
   
-  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+<a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+  <div style="
+    display: inline-block;
+    padding: 10px;
+    border: 3px solid #FF7F50;
+    border-radius: 18px;
+  ">
     <img
       src="https://github-readme-streak-stats-sepia-ten.vercel.app/?user=hasaanmehmood&theme=dark&hide_border=true"
       alt="GitHub Streak Stats"
       width="800"
+      style="border-radius: 14px;"
     />
-  </a>
-</p>
-
+  </div>
+</a>
 
    
   <br/>
