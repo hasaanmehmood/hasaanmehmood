@@ -76,9 +76,9 @@
    
   <br/>
 <br/><br/>
-<table align="center">
+<table align="center" cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td>
+    <td style="padding-right: 15px;">
       <!-- GitHub Stats Card -->
       <img
         src="https://github-readme-stats.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50&title_color=FF7F50&text_color=C9D1D9"
@@ -96,6 +96,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <br/><br/>
