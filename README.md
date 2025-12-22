@@ -66,9 +66,10 @@
 <div align=center>
 
 <img
-  src="https://github-readme-streak-stats-sepia-ten.vercel.app/?user=hasaanmehmood&theme=dark&hide_border=true&bg_color=0d1117&ring_color=FF7F50&fire_color=FF7F50&currStreakNum=FF7F50&sideNums=FF7F50"
+  src="https://github-readme-stats.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=dark&hide_border=false&border_radius=25&border_color=FF7F50"
   width="800"
 />
+
 
 
 
