@@ -76,26 +76,26 @@
    
   <br/>
 <br/><br/>
-<table align="center" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td style="padding-right: 15px;">
-      <!-- GitHub Stats Card -->
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50&title_color=FF7F50&text_color=C9D1D9"
-        width="400"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td>
-      <!-- Top Languages Card -->
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanmehmood&layout=compact&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50&title_color=FF7F50&text_color=C9D1D9"
-        width="400"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50&title_color=FF7F50&text_color=C9D1D9"
+    width="400"
+    alt="GitHub Stats"
+  />
+
+  <!-- Spacer -->
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Top Languages Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanmehmood&layout=compact&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50&title_color=FF7F50&text_color=C9D1D9"
+    width="400"
+    alt="Top Languages"
+  />
+</p>
+
 
 
 
