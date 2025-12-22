@@ -85,8 +85,7 @@
     width="440"
     alt="GitHub Stats"
   />
-     <img src="https://dummyimage.com/1x20/000000/000000.png&text=+" width="1" height="20" alt="" />
-  </span>
+     
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- spacing -->
   <!-- Top Languages Card -->
   <img
