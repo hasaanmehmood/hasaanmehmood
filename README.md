@@ -78,18 +78,18 @@
 <br/><br/>
 
 <img
+  src="https://github-readme-stats.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50"
   width="500"
+/>
+
+<br/>
+
+<img
+  width="400"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanmehmood&layout=compact&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50"
   alt="Top Languages"
 />
 
-
-
-<br/><br/>
-<img
-  src="https://github-readme-stats.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50"
-  width="500"
-/>
 <br/><br/>
 <hr/>
 
