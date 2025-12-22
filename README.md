@@ -78,11 +78,14 @@
 <br/><br/>
 
 <p align="center">
+  <!-- GitHub Stats Card -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50&title_color=FF7F50&text_color=C9D1D9"
     width="380"
     alt="GitHub Stats"
   />
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- adds spacing between cards -->
+  <!-- Top Languages Card -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanmehmood&layout=compact&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50&title_color=FF7F50&text_color=C9D1D9"
     width="380"
