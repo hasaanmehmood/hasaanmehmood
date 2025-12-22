@@ -65,9 +65,9 @@
 
 <div align=center>
 
- <a href="https://git.io/streak-stats" target="_blank">
+<a href="https://git.io/streak-stats" target="_blank">
   <img
-    src="https://github-readme-streak-stats-sepia-ten.vercel.app/?user=hasaanmehmood&theme=dark&hide_border=false&border_radius=20&border=3&border_color=FF7F50"
+    src="https://github-readme-streak-stats-sepia-ten.vercel.app/?user=hasaanmehmood&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50"
     width="800"
     alt="GitHub Streak Stats"
   />
