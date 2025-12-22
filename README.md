@@ -89,7 +89,7 @@
   <!-- Top Languages Card -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanmehmood&layout=compact&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50&title_color=FF7F50&text_color=C9D1D9"
-    width="370"
+    width="350"
     alt="Top Languages"
   />
 </p>
