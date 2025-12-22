@@ -82,16 +82,26 @@
   </div>
 </a>
 
+
    
   <br/>
-<img
-  width="500"
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanmehmood&layout=compact&theme=dark&hide_border=true"
-  alt="Top Languages"
-/>
+<br/><br/>
 
+<div style="
+  display: inline-block;
+  padding: 10px;
+  border: 3px solid #FF7F50;
+  border-radius: 18px;
+">
+  <img
+    width="500"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanmehmood&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+    style="border-radius: 14px;"
+  />
 </div>
+
+
 
 <br/><br/>
 
