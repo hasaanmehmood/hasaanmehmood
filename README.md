@@ -7,7 +7,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&center=true&vCenter=true&width=500&height=70&color=FF7F50&duration=4000&lines=Hi+There!+👋;+I'm+Hasaan+Mehmood!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=35&center=true&vCenter=true&width=500&height=70&color=FF7F50&duration=4000&lines=Hi+There!+👋;+I'm+Hasaan+Mehmood!;" />
 </h1>
 
 <h3 align="center">A passionate web/software developer based in Kuala Lumpur</h3>
