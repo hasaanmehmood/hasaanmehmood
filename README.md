@@ -70,8 +70,8 @@
   <div style="
     display: inline-block;
     padding: 10px;
-    border: 3px solid #FF7F50;
-    border-radius: 18px;
+    border: 4px solid #FF7F50;
+    border-radius: 24px;
   ">
     <img
       src="https://github-readme-streak-stats-sepia-ten.vercel.app/?user=hasaanmehmood&theme=dark&hide_border=true"
