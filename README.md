@@ -66,8 +66,7 @@
 <div align=center>
 
 <a href="https://git.io/streak-stats" target="_blank">
-  <img
-  src="https://github-readme-streak-stats-sepia-ten.vercel.app/?user=hasaanmehmood&theme=dark&hide_border=false&bg_color=0d1117&ring_color=FF7F50&fire_color=FF7F50&currStreakNum=FF7F50&sideNums=FF7F50&border_radius=24&border_color=FF7F50"
+  <img src="https://github-readme-streak-stats-sepia-ten.vercel.app/?user=hasaanmehmood&theme=dark&hide_border=false&bg_color=0d1117&ring_color=FF7F50&fire_color=FF7F50&currStreakNum=FF7F50&sideNums=FF7F50&border_radius=24&border_color=FF7F50"
     width="800"
     alt="GitHub Streak Stats"
   />
@@ -81,7 +80,7 @@
 <p align="center">
   <!-- GitHub Stats Card (adjusted width to match height) -->
   <img
-    src="https://github-readme-stats-is86inqhg-hasaanmehmoods-projects.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50&title_color=FF7F50&text_color=C9D1D9"
+    src="https://github-readme-stats-hasaanmehmoods-projects.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50&title_color=FF7F50&text_color=C9D1D9"
     width="440"
     alt="GitHub Stats"
   />
