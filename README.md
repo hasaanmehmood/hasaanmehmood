@@ -80,7 +80,7 @@
 <p align="center">
   <!-- GitHub Stats Card (adjusted width to match height) -->
   <img
-    src="https://github-readme-stats-hasaanmehmoods-projects.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=dark&hide_border=false&border_radius=20&border_color=FF7F50&title_color=FF7F50&text_color=C9D1D9"
+    src="https://github-readme-stats-hasaanmehmoods-projects.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=dark&cache_seconds=1800"
     width="440"
     alt="GitHub Stats"
   />
