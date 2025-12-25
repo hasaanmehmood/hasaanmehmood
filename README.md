@@ -64,7 +64,7 @@
 <br>
 
 <div align=center>
-<img src="https://github-readme-stats-hasaanmehmoods-projects.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=dark&cache_seconds=1800" width="440" />
+
 
 
 <a href="https://git.io/streak-stats" target="_blank">
