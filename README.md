@@ -84,6 +84,7 @@
   <img
     src="https://github-readme-stats-hasaanmehmoods-projects.vercel.app/api?username=hasaanmehmood&show_icons=true&theme=dark&cache_seconds=1800&v=8"
     width="440"
+    style="border-radius: 20px; border: 3px solid #FF6B35;"
     alt="GitHub Stats"
   />
   &nbsp;&nbsp; <!-- spacing -->
