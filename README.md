@@ -18,7 +18,7 @@
  
  🔭 I’m currently working on **Developing Data Warehouse**
  
- 🌱 I’m currently learning **Docker, Teraform, AWS, Go**
+ 🌱 I’m currently learning **Teraform, AWS, Go**
 
 💬 Ask me about **Python, Django, C++... or anything [here](https://github.com/hasaanmehmood/hasaanmehmood/issues)**
 
