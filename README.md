@@ -11,8 +11,17 @@
   />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasaanmehmood&theme=codeSTACKr&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasaanmehmood&theme=codeSTACKr)
+<p align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasaanmehmood&theme=codeSTACKr&utcOffset=8"
+    width="45%"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasaanmehmood&theme=codeSTACKr"
+    width="45%"
+  />
+</p>
+
 
 
 <h1 align="center">
