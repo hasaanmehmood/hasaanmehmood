@@ -14,11 +14,11 @@
 <p align="center">
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasaanmehmood&theme=codeSTACKr&utcOffset=8"
-    width="42%"
+    width="35%"
   />
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasaanmehmood&theme=codeSTACKr"
-    width="42%"
+    width="35%"
   />
 </p>
 
