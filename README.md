@@ -20,6 +20,10 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasaanmehmood&theme=codeSTACKr"
     width="35%"
   />
+   <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasaanmehmood&theme=codeSTACKr"
+    width="35%"
+  />
 </p>
 
 
