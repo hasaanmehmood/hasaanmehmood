@@ -4,9 +4,11 @@
   alt="Profile views"
 />
 
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasaanmehmood&theme=codeSTACKr)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasaanmehmood&theme=codeSTACKr&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasaanmehmood&theme=codeSTACKr)
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=900&height=70&color=FF7F50&duration=4000&lines=Hi+There!+👋;+I'm+Hasaan+Mehmood!;+Backend+Developer+%7C+Python+%7C+AI+%7C+Systems+Design;" />
