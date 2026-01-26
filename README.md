@@ -91,7 +91,7 @@
 
 
 <a href="https://git.io/streak-stats" target="_blank">
-  <img src="https://github-readme-streak-stats-sepia-ten.vercel.app/?user=hasaanmehmood&theme=dark&hide_border=false&bg_color=0d1117&ring_color=FF7F50&fire_color=FF7F50&currStreakNum=FF7F50&sideNums=FF7F50&border_radius=24&border_color=FF7F50"
+  <img src="https://github-readme-streak-stats-sepia-ten.vercel.app/?user=hasaanmehmood&theme=dark&hide_border=false&bg_color=0d1117&ring_color=FF7F50&fire_color=FF7F50&currStreakNum=FF7F50&sideNums=FF7F50&border_radius=24&border_color=FF7F50&cb=20260127"
     width="800"
     alt="GitHub Streak Stats"
   />
