@@ -66,7 +66,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,linux,postgresql,html,css,vscode,django,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,linux,postgresql,html,css,vscode,django,spring,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,react,javascript,typescript,express,firebase,mongodb,tensorflow,java,aws,mysql,flask" /><br>
 </div>
 
