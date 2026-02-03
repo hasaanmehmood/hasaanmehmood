@@ -67,7 +67,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,linux,postgresql,html,css,vscode,django,spring,dotnet,figma,tailwind,git,next,vue" />
-    <img src="https://skillicons.dev/icons?i=nodejs,react,javascript,typescript,express,firebase,mongodb,tensorflow,java,aws,docker,kubernetes,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,javascript,typescript,express,firebase,mongodb,oracle,gcp,tensorflow,java,aws,docker,kubernetes,mysql,flask" /><br>
 </div>
 
 <br/>
